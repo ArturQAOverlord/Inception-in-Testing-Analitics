@@ -69,7 +69,7 @@
 - **Таск-менеджмент**: Jira
 - **Хранение документации**: Confluence
 - **TMS**: Test IT
-- **API Testing**: Postman
+- **API / WEB Testing**: Postman / Dev tools
 - **Automated mobile testing**: Appium + testNG
 - **Mobile testing**: Android studio
 - **Code redactor**: VS Code

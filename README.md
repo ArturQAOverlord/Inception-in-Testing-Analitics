@@ -35,7 +35,7 @@
 1. **Клонируйте репозиторий**  
    ```bash
    git clone https://github.com/ArturQAOverlord/Introduction.git
-   cd Introduction
+   cd Inception-in-Testing-Analitics
    ```
 
 2. **Откройте диаграммы**  

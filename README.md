@@ -34,7 +34,7 @@
 
 1. **Клонируйте репозиторий**  
    ```bash
-   git clone https://github.com/ArturQAOverlord/Introduction.git
+   git clone https://github.com/ArturQAOverlord/Inception-in-Testing-Analitics.git
    cd Inception-in-Testing-Analitics
    ```
 

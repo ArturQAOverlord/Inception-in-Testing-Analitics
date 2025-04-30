@@ -8,21 +8,24 @@
 
 ```
 /
-├── 🗂️ 01_Testing_Process_Diagrams/
+├── 🗂️ 01_Процесс_Тестирования_Диаграмма/
 │   ├── Test_Process_Flowchart.drawio
 │   ├── V–Model.drawio
 │   └── Agile_Testing_Workflow.drawio
-├── 🗂️ 02_BPMN_Diagrams/
+├── 🗂️ 02_BPMN_Диаграммы/
 │   ├── Create_Deposit_Process.bpmn
 │   ├── Close_Deposit_Process.bpmn
 │   └── Loan_Approval.bpmn
-├── 🗂️ 03_Test_Cases/
+├── 🗂️ 03_Тест_Кейсы/
 │   ├── Login_Functionality_Test_Cases.xlsx
 │   └── Payment_Module_Test_Cases.xlsx
-├── 🗂️ 04_Checklists/
+├── 🗂️ 04_Чек_Лист/
 │   ├── Regression_Test_Checklist.md
 │   └── Release_Readiness_Checklist.md
-├── 🗂️ 05_Bug_Reports/
+├── 🗂️ 05_Баг_Репорты/
+│   ├── BugReport_Template.docx
+│   └── Sample_Bug_Report_001.pdf
+├── 🗂️ 06_Пример_Отчетности/
 │   ├── BugReport_Template.docx
 │   └── Sample_Bug_Report_001.pdf
 └── README.md
